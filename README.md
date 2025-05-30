@@ -1,3 +1,2 @@
 # site-acessivel
-
-escrever depois
+Site de referência para desenvolver conteúdo acessível em páginas web
